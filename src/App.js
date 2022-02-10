@@ -14,7 +14,7 @@ function App() {
     <div className="app">
       <Router>
         <Header />
-        
+        <h2>ameer hamza</h2>
         <Switch>
           <Route path="/search">
             <SearchPage />
