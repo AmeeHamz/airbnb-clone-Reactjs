@@ -1,2 +1,3 @@
 # Airbnb Clone
-[![airbnb-SS.jpg](https://i.postimg.cc/ZYyHkjCF/airbnb-SS.jpg)](https://postimg.cc/pyRzzfQp)
+
+![Drag Racing](https://github.com/AmeeHamz/airbnb-clone-Reactjs/blob/master/public/airbnb-SS.jpeg?raw=true)
